@@ -15,7 +15,7 @@ player createDiarySubject ["infos",
 [
 "Information",
 "
-<br/>Tru Wasteland was first just an idea of making a A3 server into a 'Life of War' thought. You
+<br/>Tru Survival was first just an idea of making a A3 server into a 'Life of War' thought. You
 <br/>would literally have to fight to survive. So we have taken the time to bring that idea to play.
 <br/>We hope you enjoy, and we look further into developing this further."
 ]];
@@ -23,7 +23,7 @@ player createDiarySubject ["infos",
 player createDiarySubject ["changelog",
 [
 "v0.1",
-"<br/>[April 3, 2015] Start of Tru Wasteland by Sea Haven Games"
+"<br/>[April 3, 2015] Start of Tru Survival by Sea Haven Games"
 ]];
 
 player createDiarySubject ["credits",
