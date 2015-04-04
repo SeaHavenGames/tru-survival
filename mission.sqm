@@ -18,8 +18,8 @@ class Mission
 	randomSeed=9375352;
 	class Intel
 	{
-		briefingName="Tru Wasteland";
-		overviewText="Tru Wasteland 0.1";
+		briefingName="Tru Survival";
+		overviewText="Tru Survival 0.1";
 		timeOfChanges=1800.0002;
 		startWeather=0.30000001;
 		startWind=0.1;
