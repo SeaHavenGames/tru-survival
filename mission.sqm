@@ -1,0 +1,466 @@
+version=12;
+class Mission
+{
+	addOns[]=
+	{
+		"A3_Characters_F_INDEP",
+		"a3_characters_f",
+		"a3_map_altis",
+		"A3_Characters_F_Civil"
+	};
+	addOnsAuto[]=
+	{
+		"A3_Characters_F_INDEP",
+		"a3_characters_f",
+		"A3_Characters_F_Civil",
+		"a3_map_altis"
+	};
+	randomSeed=9375352;
+	class Intel
+	{
+		briefingName="Tru Wasteland";
+		overviewText="Tru Wasteland 0.1";
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+	class Groups
+	{
+		items=11;
+		class Item0
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8418.8477,64.191231,25334.852};
+					special="NONE";
+					id=0;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_1";
+					description="Independent - 1";
+				};
+			};
+		};
+		class Item1
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8426.8018,66.464996,25335.145};
+					special="NONE";
+					id=1;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_2";
+					description="Independent - 2";
+				};
+			};
+		};
+		class Item2
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8433.5781,67.934669,25335.441};
+					special="NONE";
+					id=2;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_3";
+					description="Independent - 3";
+				};
+			};
+		};
+		class Item3
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8440.0566,69.132065,25335.443};
+					special="NONE";
+					id=3;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_4";
+					description="Independent - 4";
+				};
+			};
+		};
+		class Item4
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8447.127,70.617218,25335.148};
+					special="NONE";
+					id=4;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_5";
+					description="Independent - 5";
+				};
+			};
+		};
+		class Item5
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8418.8467,66.343384,25326.9};
+					special="NONE";
+					id=5;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_6";
+					description="Independent - 6";
+				};
+			};
+		};
+		class Item6
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8426.5068,68.697296,25327.193};
+					special="NONE";
+					id=6;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_7";
+					description="Independent - 7";
+				};
+			};
+		};
+		class Item7
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8434.1641,70.755676,25327.486};
+					special="NONE";
+					id=7;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_8";
+					description="Independent - 8";
+				};
+			};
+		};
+		class Item8
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8440.6475,71.905998,25327.783};
+					special="NONE";
+					id=8;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_9";
+					description="Independent - 9";
+				};
+			};
+		};
+		class Item9
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={8447.7178,73.160088,25327.488};
+					special="NONE";
+					id=9;
+					side="GUER";
+					vehicle="I_soldier_F";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+					text="indie_10";
+					description="Independent - 10";
+				};
+			};
+		};
+		class Item10
+		{
+			side="CIV";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={14638.457,17.91,16758.174};
+					azimut=130;
+					special="NONE";
+					id=10;
+					side="CIV";
+					vehicle="C_man_1";
+					leader=1;
+					skill=0.60000002;
+					text="air_shop_1";
+					description="Air Shop 1";
+				};
+			};
+		};
+	};
+	class Markers
+	{
+		items=16;
+		class Item0
+		{
+			position[]={27003.072,20.109243,23157.674};
+			name="molos_spawn";
+			type="Empty";
+		};
+		class Item1
+		{
+			position[]={25805.217,16.488846,21257.484};
+			name="sofia_spawn";
+			type="Empty";
+		};
+		class Item2
+		{
+			position[]={20957.703,42.205635,17002.805};
+			name="paros_spawn";
+			type="Empty";
+		};
+		class Item3
+		{
+			position[]={18064.033,22.341269,15194.18};
+			name="charkia_spawn";
+			type="Empty";
+		};
+		class Item4
+		{
+			position[]={16534.291,2.27,12546.903};
+			name="pyrgros_spawn";
+			type="Empty";
+		};
+		class Item5
+		{
+			position[]={20745.383,39.696476,6688.3301};
+			name="selakano_spawn";
+			type="Empty";
+		};
+		class Item6
+		{
+			position[]={12671.342,3.3479774,14238.549};
+			name="neochori_spawn";
+			type="Empty";
+		};
+		class Item7
+		{
+			position[]={3649.1482,10.280626,13098.219};
+			name="kavala_spawn";
+			type="Empty";
+		};
+		class Item8
+		{
+			position[]={7096.0796,108.43273,16399.281};
+			name="kore_spawn";
+			type="Empty";
+		};
+		class Item9
+		{
+			position[]={8593.4512,170.69687,18460.266};
+			name="syrta_spawn";
+			type="Empty";
+		};
+		class Item10
+		{
+			position[]={4525.3447,298.86874,21413.982};
+			name="oreokastro_spawn";
+			type="Empty";
+		};
+		class Item11
+		{
+			position[]={9430.917,117.35281,20202.602};
+			name="abdera_spawn";
+			type="Empty";
+		};
+		class Item12
+		{
+			position[]={13853.154,19.780001,18601.678};
+			name="athira_spawn";
+			type="Empty";
+		};
+		class Item13
+		{
+			position[]={9374.9102,119.55756,15870.956};
+			name="agios_dion_spawn";
+			type="Empty";
+		};
+		class Item14
+		{
+			position[]={14674.593,17.91,16727.916};
+			name="air_shop_1_1";
+			type="Empty";
+			angle=130;
+		};
+		class Item15
+		{
+			position[]={14640.033,17.91,16759.463};
+			name="airshop";
+			text="Air Shop";
+			type="o_service";
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"a3_map_altis"
+	};
+	addOnsAuto[]=
+	{
+		"a3_map_altis"
+	};
+	randomSeed=7752917;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"a3_map_altis"
+	};
+	addOnsAuto[]=
+	{
+		"a3_map_altis"
+	};
+	randomSeed=5212823;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"a3_map_altis"
+	};
+	addOnsAuto[]=
+	{
+		"a3_map_altis"
+	};
+	randomSeed=16138525;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+};
