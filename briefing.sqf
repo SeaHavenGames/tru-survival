@@ -1,6 +1,6 @@
-//
-// * This project is licensed under the GNU Affero GPL v3. Copyright © 2014 A3Wasteland.com *
-//
+// //////////////////////////////////////////////////////////////////////////////////////////
+// / This project is licensed under the GNU Affero GPL v3. Copyright © 2015 SeaHavenGames.com /
+// //////////////////////////////////////////////////////////////////////////////////////////
 //	@file Name: briefing.sqf
 
 if (!hasInterface) exitWith {};
@@ -30,7 +30,7 @@ player createDiarySubject ["credits",
 [
 "Credits",
 "
-<br/><font size='16' color='#FF0000'>Developed by SeaHavenLife.com</font>
+<br/><font size='16' color='#FF0000'>Developed by SeaHavenGames.com</font>
 <br/>	+ Country (Sea Haven Games)
 <br/>	+ TrenchWarrior (Sea Haven Life)
 <br/>	+ Sleepycat5 (Sea Haven Games)
